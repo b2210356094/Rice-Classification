@@ -1,1 +1,1 @@
-# Takım arkadaşım olan Enes KARAARSLAN ile beraber yaptım.
+# This project was developed in collaboration with my teammate Enes KARAARSLAN.
